@@ -36,4 +36,4 @@ jobs:
         title: "Automated Pull Request from master to main"
         body: "This pull request was created automatically after a successful workflow run."
     - name: merged to master to main
-      run: echo "code is in main ready for production"
+      run: echo "code is in main ready for productions"
